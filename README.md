@@ -71,19 +71,12 @@ npm run preview
 
 ## Code Structure & Best Practices
 
-### Project Structure
-```
-linkedin-clone/
-│── src/
-│   ├── components/   # Reusable React components
-│   ├── pages/        # Different pages of the application
-│   ├── assets/       # Static assets like images, icons
-│   ├── data/         # Static JSON files for posts, users, jobs
-│   ├── App.jsx       # Main application file
-│   ├── main.jsx      # React entry point
-│── public/           # Public assets
-│── package.json      # Project dependencies and scripts
-```
+## Project File Structure
+
+Here is the file structure of the LinkedIn Clone project:
+
+![File Structure](public/image.png)
+
 
 ### Naming Conventions
 - **Components:** PascalCase (e.g., `Navbar.jsx`, `Profile.jsx`)
