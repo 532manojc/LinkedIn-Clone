@@ -1,0 +1,58 @@
+[
+  {
+    "id": "1",
+    "userId": "johndoe",
+    "userName": "John Doe",
+    "userImage": "/images/3job.png",
+    "content": "Excited to share that I've just completed a new project using React and Bootstrap! #webdevelopment #reactjs",
+    "image": "/images/code-project.jpg",
+    "likes": 24,
+    "comments": 5,
+    "timestamp": "2 hours ago"
+  },
+  {
+    "id": "2",
+    "userId": "janedoe",
+    "userName": "Jane mills",
+    "userImage": "/images/1.jpg",
+    "content": "Just finished my certification in UX Design. Looking forward to applying these skills in my next project!",
+    "image": null,
+    "likes": 42,
+    "comments": 8,
+    "timestamp": "5 hours ago"
+  },
+  {
+    "id": "3",
+    "userId": "bobsmith",
+    "userName": "Bob Smith",
+    "userImage": "/images/profile.png",
+    "content": "Our team is hiring! We're looking for a frontend developer with experience in React. DM me if interested.",
+    "image": null,
+    "likes": 15,
+    "comments": 3,
+    "timestamp": "1 day ago"
+  },
+  {
+    "id": "4",
+    "userId": "sarahlee",
+    "userName": "Sarah Lee",
+    "userImage": "/images/5job.png",
+    "content": "Just published my article on 'Best Practices for React Development in 2023'. Check it out!",
+    "image": "/images/react-article.jpg",
+    "likes": 56,
+    "comments": 12,
+    "timestamp": "2 days ago"
+  },
+  {
+    "id": "5",
+    "userId": "mikebrown",
+    "userName": "Mike Brown",
+    "userImage": "/images/2job.png",
+    "content": "Attended an amazing tech conference this weekend. So many great insights on the future of web development!",
+    "image": "/images/conference.jpg",
+    "likes": 38,
+    "comments": 7,
+    "timestamp": "3 days ago"
+  }
+]
+

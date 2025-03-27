@@ -1,0 +1,440 @@
+/* Basic styling for the app */
+body {
+  background-color: #f3f2ef;
+  font-family: Arial, sans-serif;
+}
+
+.app {
+  min-height: 100vh;
+}
+
+.card {
+  margin-bottom: 20px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.profile-img {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.company-logo {
+  width: 60px;
+  height: 60px;
+  object-fit: contain;
+}
+
+.post-image {
+  width: 100%;
+  max-height: 400px;
+  object-fit: cover;
+  border-radius: 4px;
+}
+
+.sidebar {
+  position: sticky;
+  top: 80px;
+}
+
+.btn-primary {
+  background-color: #0a66c2;
+  border-color: #0a66c2;
+}
+
+.btn-outline-primary {
+  color: #0a66c2;
+  border-color: #0a66c2;
+}
+
+.btn-outline-primary:hover {
+  background-color: #0a66c2;
+  color: white;
+}
+
+.navbar {
+  background-color: white;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.profile-header {
+  background-color: white;
+  padding: 20px;
+  border-radius: 8px;
+  margin-bottom: 20px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.profile-cover {
+  height: 200px;
+  width: 100%;
+  object-fit: cover;
+  border-radius: 8px 8px 0 0;
+}
+
+.profile-details {
+  margin-top: -60px;
+  padding: 0 20px;
+}
+
+.profile-pic-large {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  border: 4px solid white;
+  object-fit: cover;
+}
+
+.connection-card {
+  transition: transform 0.3s;
+}
+
+.connection-card:hover {
+  transform: translateY(-5px);
+}
+
+.job-card {
+  cursor: pointer;
+  transition: transform 0.3s;
+}
+
+.job-card:hover {
+  transform: translateY(-5px);
+}
+
+.login-container {
+  max-width: 400px;
+  margin: 100px auto;
+  padding: 30px;
+  background-color: white;
+  border-radius: 8px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+}
+
+.login-logo {
+  font-size: 32px;
+  font-weight: bold;
+  color: #0a66c2;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+/* New styles to match LinkedIn UI */
+.linkedin-navbar {
+  background-color: white;
+  border-bottom: 1px solid #e0e0e0;
+  padding: 0;
+}
+
+.linkedin-logo {
+  color: #0a66c2;
+  font-size: 24px;
+  font-weight: bold;
+  background-color: #0a66c2;
+  color: white;
+  width: 40px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 4px;
+}
+
+.nav-icon {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: #666;
+  font-size: 12px;
+  padding: 8px 0;
+}
+
+.nav-icon.active {
+  color: #0a66c2;
+}
+
+.nav-icon svg {
+  margin-bottom: 4px;
+}
+
+.profile-card {
+  background-color: white;
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.profile-banner {
+  height: 60px;
+  background-color: #0a66c2;
+}
+
+.profile-info {
+  text-align: center;
+  padding: 0 20px 20px;
+  position: relative;
+}
+
+.profile-avatar {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  border: 3px solid white;
+  margin-top: -40px;
+  background-color: #f3f2ef;
+  object-fit: cover;
+}
+
+.post-card {
+  background-color: white;
+  border-radius: 8px;
+  margin-bottom: 16px;
+}
+
+.post-input {
+  border-radius: 30px;
+  background-color: #f3f2ef;
+  cursor: pointer;
+}
+
+.post-actions {
+  display: flex;
+  justify-content: space-around;
+  padding: 8px 0;
+}
+
+.post-action {
+  display: flex;
+  align-items: center;
+  color: #666;
+  font-size: 14px;
+  cursor: pointer;
+}
+
+.post-action svg {
+  margin-right: 8px;
+}
+
+.feed-card {
+  background-color: white;
+  border-radius: 8px;
+  padding: 16px;
+}
+
+.feed-title {
+  font-size: 16px;
+  font-weight: bold;
+  margin-bottom: 16px;
+}
+
+.feed-item {
+  display: flex;
+  margin-bottom: 16px;
+}
+
+.feed-avatar {
+  width: 48px;
+  height: 48px;
+  border-radius: 50%;
+  margin-right: 12px;
+  object-fit: cover;
+}
+
+.feed-info {
+  flex: 1;
+}
+
+.feed-name {
+  font-weight: bold;
+  margin-bottom: 4px;
+}
+
+.feed-headline {
+  color: #666;
+  font-size: 14px;
+  margin-bottom: 8px;
+}
+
+.connect-btn {
+  background-color: white;
+  border: 1px solid #0a66c2;
+  color: #0a66c2;
+  border-radius: 30px;
+  padding: 6px 16px;
+  font-weight: bold;
+}
+
+.comment-modal {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 1000;
+}
+
+.comment-modal-content {
+  background-color: white;
+  border-radius: 8px;
+  width: 500px;
+  max-width: 90%;
+  padding: 20px;
+}
+
+.comment-modal-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 16px;
+}
+
+.comment-modal-body {
+  margin-bottom: 16px;
+}
+
+.comment-list {
+  max-height: 300px;
+  overflow-y: auto;
+  margin-bottom: 16px;
+}
+
+.comment-item {
+  display: flex;
+  margin-bottom: 12px;
+}
+
+.comment-avatar {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  margin-right: 12px;
+  object-fit: cover;
+}
+
+.comment-content {
+  flex: 1;
+  background-color: #f3f2ef;
+  padding: 8px 12px;
+  border-radius: 16px;
+}
+
+.comment-name {
+  font-weight: bold;
+  font-size: 14px;
+}
+
+.comment-text {
+  font-size: 14px;
+}
+
+.comment-form {
+  display: flex;
+  align-items: center;
+}
+
+.comment-input {
+  flex: 1;
+  border: 1px solid #e0e0e0;
+  border-radius: 30px;
+  padding: 8px 16px;
+  margin-right: 8px;
+}
+
+/* Improved responsive styles */
+@media (max-width: 767px) {
+  .navbar .container {
+    padding: 0 10px;
+  }
+
+  .nav-icon {
+    font-size: 10px;
+  }
+
+  .profile-pic-large {
+    width: 100px;
+    height: 100px;
+  }
+
+  .profile-details {
+    padding: 0 10px;
+  }
+
+  .comment-modal-content {
+    width: 95%;
+    padding: 15px;
+  }
+
+  .post-action {
+    font-size: 12px;
+  }
+
+  .post-action svg {
+    margin-right: 4px;
+  }
+}
+
+@media (max-width: 576px) {
+  .profile-cover {
+    height: 150px;
+  }
+
+  .profile-pic-large {
+    width: 80px;
+    height: 80px;
+  }
+
+  .profile-details {
+    margin-top: -40px;
+  }
+
+  .connection-card .d-flex {
+    flex-direction: column;
+  }
+
+  .connection-card .profile-img {
+    margin-bottom: 10px;
+  }
+}
+
+.newcard{
+  margin-top: 50px;
+}
+
+.newcard1{
+  margin-top: 10px;
+}
+
+.edit-button{
+  height: 3rem;
+}
+
+@media (max-width: 1021px) {
+  .newcard1 {
+    display: block !important;
+    position: relative;
+    padding: 6px 12px;
+    font-size: 14px;
+  }
+}
+
+
+@media (max-width: 995px) {
+  .x {
+    margin-top: 50px;
+  }
+}
+@media (max-width: 770px) {
+  .newcard1 {
+    display: none !important;
+  }
+}
+@media (max-width: 770px) {
+  .x {
+    margin-top: 0px;
+  }
+}

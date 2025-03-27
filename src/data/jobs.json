@@ -1,0 +1,153 @@
+[
+  {
+    "id": "1",
+    "title": "Frontend Developer",
+    "company": "Tech Innovations Inc.",
+    "companyLogo": "/images/itjob.png",
+    "location": "San Francisco, CA",
+    "employmentType": "Full-time",
+    "experienceLevel": "Mid-level",
+    "description": "We are looking for a talented Frontend Developer to join our team. You will be responsible for building user interfaces for our web applications using modern JavaScript frameworks.",
+    "requirements": [
+      "3+ years of experience with React",
+      "Strong knowledge of HTML, CSS, and JavaScript",
+      "Experience with responsive design",
+      "Familiarity with RESTful APIs",
+      "Bachelor's degree in Computer Science or related field"
+    ],
+    "responsibilities": [
+      "Develop new user-facing features using React.js",
+      "Build reusable components and libraries for future use",
+      "Translate designs and wireframes into high-quality code",
+      "Optimize components for maximum performance",
+      "Collaborate with backend developers and designers"
+    ],
+    "image": "/images/3job.png"
+  },
+  {
+    "id": "2",
+    "title": "UX/UI Designer",
+    "company": "Design Masters",
+    "companyLogo": "/images/itjob.png",
+    "location": "New York, NY",
+    "employmentType": "Full-time",
+    "experienceLevel": "Senior",
+    "description": "Design Masters is seeking a talented UX/UI Designer to create amazing user experiences. The ideal candidate should have an eye for clean and artful design, possess superior UI skills and be able to translate high-level requirements into interaction flows and artifacts.",
+    "requirements": [
+      "5+ years of UX/UI design experience",
+      "Strong portfolio of design projects",
+      "Proficiency in design tools like Figma, Sketch, Adobe XD",
+      "Understanding of user-centered design principles",
+      "Experience with design systems"
+    ],
+    "responsibilities": [
+      "Create user flows, wireframes, prototypes, and mockups",
+      "Design UI elements and components",
+      "Conduct user research and testing",
+      "Collaborate with product managers and developers",
+      "Maintain design systems and documentation"
+    ],
+    "image": "/images/1job.png"
+  },
+  {
+    "id": "3",
+    "title": "Full Stack Developer",
+    "company": "WebSolutions Co.",
+    "companyLogo": "/images/itjob.png",
+    "location": "Remote",
+    "employmentType": "Full-time",
+    "experienceLevel": "Senior",
+    "description": "WebSolutions Co. is looking for a Full Stack Developer to build and maintain web applications. You will be working on both frontend and backend development using modern technologies.",
+    "requirements": [
+      "4+ years of experience in full stack development",
+      "Proficiency in React, Node.js, and Express",
+      "Experience with databases (SQL and NoSQL)",
+      "Knowledge of cloud services (AWS, Azure, or GCP)",
+      "Strong problem-solving skills"
+    ],
+    "responsibilities": [
+      "Develop and maintain web applications",
+      "Write clean, maintainable, and efficient code",
+      "Design and implement database schemas",
+      "Ensure the performance, quality, and responsiveness of applications",
+      "Collaborate with cross-functional teams"
+    ],
+    "image": "/images/2job.png"
+  },
+  {
+    "id": "4",
+    "title": "Product Manager",
+    "company": "InnovateTech",
+    "companyLogo": "/images/itjob.png",
+    "location": "Boston, MA",
+    "employmentType": "Full-time",
+    "experienceLevel": "Mid-level",
+    "description": "InnovateTech is seeking a Product Manager to help define and launch new products. You will work closely with engineering, design, and marketing teams to ensure successful product delivery.",
+    "requirements": [
+      "3+ years of product management experience",
+      "Strong analytical and problem-solving skills",
+      "Excellent communication and presentation abilities",
+      "Experience with agile methodologies",
+      "Technical background is a plus"
+    ],
+    "responsibilities": [
+      "Define product vision, strategy, and roadmap",
+      "Gather and prioritize product requirements",
+      "Work closely with engineering teams to deliver features",
+      "Analyze market trends and competition",
+      "Measure and optimize product performance"
+    ],
+    "image": "/images/4job.png"
+  },
+  {
+    "id": "5",
+    "title": "Data Scientist",
+    "company": "DataInsights",
+    "companyLogo": "/images/itjob.png",
+    "location": "Seattle, WA",
+    "employmentType": "Full-time",
+    "experienceLevel": "Senior",
+    "description": "DataInsights is looking for a Data Scientist to help us discover insights from data. You will work on analyzing complex datasets and building predictive models.",
+    "requirements": [
+      "Master's or PhD in Computer Science, Statistics, or related field",
+      "Strong programming skills in Python or R",
+      "Experience with machine learning frameworks",
+      "Knowledge of SQL and data visualization tools",
+      "Strong mathematical and statistical skills"
+    ],
+    "responsibilities": [
+      "Analyze large datasets to extract insights",
+      "Build and deploy machine learning models",
+      "Collaborate with engineering and product teams",
+      "Present findings to stakeholders",
+      "Stay up-to-date with the latest research and technologies"
+    ],
+    "image": "/images/5job.png"
+  },
+  {
+    "id": "6",
+    "title": "DevOps Engineer",
+    "company": "CloudTech Solutions",
+    "companyLogo": "/images/itjob.png",
+    "location": "Austin, TX",
+    "employmentType": "Full-time",
+    "experienceLevel": "Mid-level",
+    "description": "CloudTech Solutions is seeking a DevOps Engineer to help us build and maintain our cloud infrastructure. You will be responsible for deployment, automation, and monitoring of our systems.",
+    "requirements": [
+      "3+ years of experience in DevOps or SRE roles",
+      "Strong knowledge of cloud platforms (AWS, Azure, or GCP)",
+      "Experience with containerization (Docker, Kubernetes)",
+      "Proficiency in scripting languages (Python, Bash)",
+      "Understanding of CI/CD pipelines"
+    ],
+    "responsibilities": [
+      "Design and implement cloud infrastructure",
+      "Automate deployment processes",
+      "Monitor system performance and reliability",
+      "Troubleshoot and resolve infrastructure issues",
+      "Collaborate with development teams to improve deployment processes"
+    ],
+    "image": "/images/6job.png"
+  }
+]
+

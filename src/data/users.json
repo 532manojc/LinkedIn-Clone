@@ -1,0 +1,121 @@
+[
+  {
+    "id": "johndoe",
+    "name": "John Doe",
+    "headline": "Software Developer at Tech Company",
+    "profileImage": "/images/3job.png",
+    "connections": 143,
+    "location": "San Francisco, CA",
+    "bio": "Passionate software developer with 5 years of experience in web development. Specialized in React and Node.js."
+  },
+  {
+    "id": "janedoe",
+    "name": "Jane Doe",
+    "headline": "UX Designer at Design Studio",
+    "profileImage": "/images/1.jpg",
+    "connections": 215,
+    "location": "New York, NY",
+    "bio": "Creative UX designer with a passion for creating intuitive and beautiful user experiences."
+  },
+  {
+    "id": "bobsmith",
+    "name": "Bob Smith",
+    "headline": "Frontend Team Lead at Tech Startup",
+    "profileImage": "/images/profile.png",
+    "connections": 178,
+    "location": "Austin, TX",
+    "bio": "Leading a team of frontend developers. Passionate about React, TypeScript, and clean code."
+  },
+  {
+    "id": "sarahlee",
+    "name": "Sarah Lee",
+    "headline": "Content Writer & Web Developer",
+    "profileImage": "/images/5job.png",
+    "connections": 92,
+    "location": "Seattle, WA",
+    "bio": "Combining my passion for writing and coding to create engaging web experiences."
+  },
+  {
+    "id": "mikebrown",
+    "name": "Mike Brown",
+    "headline": "Full Stack Developer at E-commerce Company",
+    "profileImage": "/images/2job.png",
+    "connections": 156,
+    "location": "Chicago, IL",
+    "bio": "Full stack developer with expertise in MERN stack. Love solving complex problems."
+  },
+  {
+    "id": "emilywilson",
+    "name": "Emily Wilson",
+    "headline": "Product Manager at Tech Giant",
+    "profileImage": "/images/6.jpg",
+    "connections": 203,
+    "location": "San Jose, CA",
+    "bio": "Product manager with a background in software development. Passionate about creating products that users love."
+  },
+  {
+    "id": "alexjohnson",
+    "name": "Alex Johnson",
+    "headline": "Software Engineer at InnovateX",
+    "profileImage": "/images/7.jpg",
+    "connections": 450,
+    "location": "Austin, TX",
+    "bio": "Full-stack developer with a love for building scalable web applications. Enthusiast of AI and cloud computing."
+  },
+  {
+    "id": "sarahmiller",
+    "name": "Sarah Miller",
+    "headline": "UX Designer at Creative Studio",
+    "profileImage": "/images/8.jpg",
+    "connections": 320,
+    "location": "Seattle, WA",
+    "bio": "UX designer focused on crafting seamless digital experiences. Passionate about user research and accessibility."
+  },
+  {
+    "id": "michaelanderson",
+    "name": "Michael Anderson",
+    "headline": "Cloud Architect at Microsoft",
+    "profileImage": "/images/9.jpg",
+    "connections": 380,
+    "location": "Boston, MA",
+    "bio": "Experienced cloud architect specializing in AWS, Azure, and Google Cloud. Passionate about scalable solutions."
+  },
+  {
+    "id": "lisathompson",
+    "name": "Lisa Thompson",
+    "headline": "Marketing Director at Creative Agency",
+    "profileImage": "/images/10.jpg",
+    "connections": 250,
+    "location": "Los Angeles, CA",
+    "bio": "Marketing strategist with a love for branding, storytelling, and digital growth strategies."
+  },
+  {
+    "id": "davidroberts",
+    "name": "David Roberts",
+    "headline": "Cybersecurity Analyst at CyberSecure Inc.",
+    "profileImage": "/images/11.jpg",
+    "connections": 415,
+    "location": "Denver, CO",
+    "bio": "Cybersecurity expert focusing on threat detection, ethical hacking, and data protection strategies."
+  },
+  {
+    "id": "sophiabaker",
+    "name": "Sophia Baker",
+    "headline": "AI Researcher at OpenAI and Data Researcher",
+    "profileImage": "/images/12.jpg",
+    "connections": 510,
+    "location": "London, UK",
+    "bio": "AI enthusiast working on deep learning, NLP, and ethical AI solutions."
+  },
+  {
+    "id": "jameswilson",
+    "name": "James Wilson",
+    "headline": "Finance Manager at Global Investments",
+    "profileImage": "/images/13.jpg",
+    "connections": 320,
+    "location": "Toronto, Canada",
+    "bio": "Finance professional with expertise in risk management, portfolio analysis, and investment strategies."
+  }
+  
+]
+
